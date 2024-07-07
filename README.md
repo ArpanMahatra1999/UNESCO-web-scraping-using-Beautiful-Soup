@@ -8,7 +8,7 @@ Tools used:
 4. Pandas
 
 Languages used:
-1. Python
+1. Python 3.7
 
 Steps to Install:
 1. Install IDE and 3 libraries in tools used (pip install BeautifulSoup).
